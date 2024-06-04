@@ -25,6 +25,10 @@
  В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 ## Ответ
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/1-1.png)
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/1-2.png)
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/1-3.png)
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/1-4.png)
 
 ## Задание 2
 
@@ -39,3 +43,8 @@
   -  скриншоты с успешно собранными сборками.
 
 ## Ответ
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/2-1.png)
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/2-2.png)
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/2-3.png)
+![alt text](https://github.com/IvanOzhigov/8-03-hw/blob/scrin/2-4.png)
+
