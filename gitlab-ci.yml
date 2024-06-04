@@ -7,9 +7,12 @@ test:
   image: golang:1.17
   script: 
    - go test .
-
+  tags:
+    - tag-1
 build:
   stage: build
   image: docker:latest
   script:
    - docker build .
+  tags:
+    - tag-1
